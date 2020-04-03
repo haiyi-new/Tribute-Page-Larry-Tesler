@@ -1,0 +1,41 @@
+body{
+  background-color: #808080;
+}
+
+h1{
+    font-family:monospace;
+    font-size:400%;
+    text-align: center;
+    text-shadow: 2px 2px 3px white;
+  }
+
+img{
+  max-width:50%;
+  display: block;
+  margin:auto;
+  border-radius: 20%;
+   box-shadow: 5px 5px 5px ;
+}
+
+#img-caption{
+  font-family:monospace;
+  font-size:200%;
+  text-align: center;
+  box-shadow: 5px 5px 5px #1a0000;
+}
+
+#tribute-info{
+  font-family:Helvetica;
+  font-weight: bold;
+}
+a:link{
+  color:red;
+  text-decoration: none;
+}
+
+a:hover{
+color:white;
+}
+a:active{
+color:yellow;
+}
